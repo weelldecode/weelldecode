@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/wellington-alfredo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-wellington_alfredo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/wellington.henriqueee" target="_blank">
+<a href="https://www.instagram.com/wellington_henriquee" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-wellington.henriqueee-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a> 
 </p 
