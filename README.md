@@ -1,16 +1,19 @@
-## Hi there 👋
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=welldecode&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+ 
+- 🔭 Atualmente estou trabalhando em <a href="https://devstep.com.br" target="blank">DevStep</a>
+ 
+- 🤝 Estou disponível para freelancer.   
 
-<!--
-**weelldecode/weelldecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Como chegar até mim **wellingtonalfredo550@gmail.com** 
+<br/><br/> 
+## Contato
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p align="left" style="background:yellow"> 
+<a href="https://linkedin.com/in/wellington-alfredo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-wellington_alfredo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/wellington.henriqueee" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-wellington.henriqueee-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a> 
+</p 
